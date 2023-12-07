@@ -7,3 +7,4 @@ Lanjut Dengan :
 ```shell script
 curl -sSL https://cdn.jsdelivr.net/gh/powergunn/squid-proxy@main/squid.sh | dos2unix | bash
 ```
+Sekarang `Squid Proxy` sudah bisa di Gunakan dengan Port `3128` Tanpa Username dan Password!
