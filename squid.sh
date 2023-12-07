@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Update package list
-sudo apt install dos2unix
 sudo apt -y update
 
 # Install Squid
