@@ -1,14 +1,7 @@
 #!/bin/bash
 
 # Update package list
-sudo apt install dos2unix
 sudo apt -y update
-
-# Install dos2unix if not already installed
-sudo apt -y install dos2unix
-
-# Convert script to Unix line endings
-dos2unix squid.sh
 
 # Install Squid
 sudo apt -y install squid
